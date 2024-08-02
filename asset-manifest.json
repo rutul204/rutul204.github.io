@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rutul204.github.io/static/css/main.04737d1d.css",
+    "main.js": "/rutul204.github.io/static/js/main.58810f39.js",
+    "static/js/453.b05d8aa5.chunk.js": "/rutul204.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/rutul204.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/credit-card.jpg": "/rutul204.github.io/static/media/credit-card.1d56071d4cc97db6e5ff.jpg",
+    "static/media/bg-dark.png": "/rutul204.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/profile.jpg": "/rutul204.github.io/static/media/profile.31057663d09823128e2b.jpg",
+    "static/media/react-redux.jpg": "/rutul204.github.io/static/media/react-redux.0d5f94224856ac27f714.jpg",
+    "static/media/wild_rydes_fleet.webp": "/rutul204.github.io/static/media/wild_rydes_fleet.7bf6b3a418368b33f973.webp",
+    "static/media/household-utility.jpeg": "/rutul204.github.io/static/media/household-utility.25edd3f9e6b12df02b4e.jpeg",
+    "index.html": "/rutul204.github.io/index.html",
+    "main.04737d1d.css.map": "/rutul204.github.io/static/css/main.04737d1d.css.map",
+    "main.58810f39.js.map": "/rutul204.github.io/static/js/main.58810f39.js.map",
+    "453.b05d8aa5.chunk.js.map": "/rutul204.github.io/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04737d1d.css",
+    "static/js/main.58810f39.js"
+  ]
+}
