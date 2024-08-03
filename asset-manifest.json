@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.8765b8c3.css",
-    "main.js": "/static/js/main.db946bb8.js",
+    "main.js": "/static/js/main.1b5c2e1c.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/credit-card-c.jpg": "/static/media/credit-card-c.b6e5eb11402e61901cad.jpg",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/credit-card.jpg": "/static/media/credit-card.1d56071d4cc97db6e5ff.jpg",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/profile.jpg": "/static/media/profile.31057663d09823128e2b.jpg",
-    "static/media/react-redux.jpg": "/static/media/react-redux.0d5f94224856ac27f714.jpg",
-    "static/media/wild_rydes_fleet.webp": "/static/media/wild_rydes_fleet.7bf6b3a418368b33f973.webp",
-    "static/media/household-utility.jpeg": "/static/media/household-utility.25edd3f9e6b12df02b4e.jpeg",
+    "static/media/wild-rydes-c.jpg": "/static/media/wild-rydes-c.726293519daefe9a010f.jpg",
+    "static/media/react-redux-c.jpg": "/static/media/react-redux-c.ebd27f6c32dd05de2984.jpg",
+    "static/media/household-utility-c.jpg": "/static/media/household-utility-c.0a5a5fa74d8c85093646.jpg",
     "index.html": "/index.html",
     "main.8765b8c3.css.map": "/static/css/main.8765b8c3.css.map",
-    "main.db946bb8.js.map": "/static/js/main.db946bb8.js.map",
+    "main.1b5c2e1c.js.map": "/static/js/main.1b5c2e1c.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8765b8c3.css",
-    "static/js/main.db946bb8.js"
+    "static/js/main.1b5c2e1c.js"
   ]
 }
